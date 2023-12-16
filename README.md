@@ -20,7 +20,6 @@
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
-    - [Install](#install)
     - [Usage](#usage)
     - [Run tests](#run-tests)
     - [Deployment](#deployment)
@@ -86,19 +85,19 @@ In order to run this project you need to have a browser and of course a code edi
 
 ### Setup
 
-Clone this repository to your desired folder, you can also set up HTML, CSS and JavaScript linters, for this you will need node installed. you can follow the steps [here](https://github.com/microverseinc/linters-config/tree/master/html-css) and [here](https://github.com/microverseinc/linters-config/tree/master/javascript) to setup the linters
+Clone these repository :
 
-
-### Install
-
-Once you cloned this project you are done !
-
+```sh
+  cd my-folder
+  git clone https://github.com/Grandi0z/hello_react_api.git
+  git clone https://github.com/Grandi0z/hello-react-front.git
+```
 
 ### Usage
 
 To run the project follow these steps :
 1. Install `Node.js` and `npm` on your computer (If you don't have them yet).
-2. Open your terminal and navigate to the root directory of your project.
+2. Open your terminal and navigate to the root directory of the front-end project.
 3. Run the command ```$npm start ``` in your terminal.
 4. Your default browser should open automatically and display your React app
 
